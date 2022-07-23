@@ -1,4 +1,4 @@
-This is the code to generate results published in the paper "Machine Learning Link Inference of Noisy Delay-Coupled Networks with Optoelectronic Experimental Tests", by Amitava Banerjee, Joseph D. Hart, Rajarshi Roy, and Edward Ott, Phys. Rev. X 11, 031014 – Published 20 July 2021
+This is the code to generate results published in the paper "Machine Learning Link Inference of Noisy Delay-Coupled Networks with Optoelectronic Experimental Tests", by Amitava Banerjee, Joseph D. Hart, Rajarshi Roy, and Edward Ott, Phys. Rev. X 11, 031014 – Published 20 July 2021, https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031014
 
 Contact Amitava Banerjee at amitava8196@gmail.com or amitavab@umd.edu for questions or comments.
 
